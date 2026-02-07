@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ac4y.base</groupId>
 	<artifactId>ac4y-class</artifactId>
-	<version>1.0.20260207.1</version>
+	<version>1.0.20260207.2</version>
 
 	<name>JAc4yClass</name>
 	<description>Java persistence domain model library for object identification and classification</description>
@@ -17,7 +17,7 @@
 		</repository>
 	</distributionManagement>
 	<build>
-		<sourceDirectory>src</sourceDirectory>
+		<sourceDirectory>src/main/java</sourceDirectory>
 		<testSourceDirectory>src/test/java</testSourceDirectory>
 		<plugins>
 			<plugin>
